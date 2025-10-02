@@ -77,7 +77,7 @@ Proyek ini mendemonstrasikan implementasi IoT sederhana dengan menggunakan modul
 ## 7. Hasil & Pembahasan
 
 ### 7.1 Hasil Pengukuran di Serial Monitor
-![Serial Monitor](./SerialMonitor.png)  
+<img width="1547" height="873" alt="Image" src="https://github.com/user-attachments/assets/c758fbe7-9897-47e2-b5b5-dab362e1474a" />  
 *Gambar: Tampilan Serial Monitor yang menampilkan pembacaan jarak (cm & inch), serta konfirmasi pengiriman data ke ThingSpeak.*
 
 **Pembahasan:**
