@@ -26,9 +26,9 @@ float distanceInch;
 String thingSpeakAddress = "api.thingspeak.com";
 String request_string;
 
-const char* ssid = "ITS-WIFI-TW2";                  // ganti dengan SSID WiFi
-const char* password = "5027241068@student.its.ac.id"; // ganti dengan password WiFi
-String writeAPIKey = "OOHZBWVVHY7WCDHV";            // ganti dengan Write API Key dari ThingSpeak
+const char* ssid = "ITS-WIFI-TW2";             // ganti dengan SSID WiFi
+const char* password = "itssurabaya";          // ganti dengan password WiFi
+String writeAPIKey = "OOHZBWVVHY7WCDHV";       // ganti dengan Write API Key dari ThingSpeak
 
 void setup() {
   Serial.begin(115200);
