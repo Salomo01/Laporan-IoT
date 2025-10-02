@@ -29,18 +29,9 @@ Proyek ini mendemonstrasikan implementasi IoT sederhana dengan menggunakan modul
 - ESP32 (atau board kompatibel yang mendukung WiFi)  
 - Sensor ultrasonik HC-SR04 (Triger, Echo)  
 - LED (opsional) dan resistor sesuai kebutuhan  
-- Kabel jumper dan breadboard  
+- Kabel jumper   
 - Komputer dengan Arduino IDE terpasang  
-- Akun dan channel di ThinkSpeak (Write API Key)  
-- File proyek:
-  - `iot_thingspeak.ino` (kode utama Arduino/ESP32)
-  - `simulation_steps.md` (panduan simulasi dan langkah pengujian)
-  - Screenshot dokumentasi:
-    - `APIkeyThinkSpeak.png`
-    - `ssArdIDEwithThinkSpeak.png`
-    - `ThinkSpeakConnectiononArdIDE.png`
-    - `SerialMonitor.png`
-    - `ThinkSpeakMonitor.png`
+- Akun ThinkSpeak (Write API Key)  
 
 ---
 
