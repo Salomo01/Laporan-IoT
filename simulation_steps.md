@@ -1,3 +1,8 @@
+## 💻 Source Code Arduino (ESP32 + Ultrasonic + ThingSpeak)
+
+Berikut adalah kode lengkap untuk menghubungkan **ESP32** dengan sensor ultrasonik, mengirimkan data jarak ke **ThingSpeak**, serta mengontrol LED berdasarkan jarak:
+
+```cpp
 #include <WiFi.h>   // gunakan < > jika "" error
 
 WiFiClient client;
@@ -21,9 +26,9 @@ float distanceInch;
 String thingSpeakAddress = "api.thingspeak.com";
 String request_string;
 
-const char* ssid = "ITS-WIFI-TW2";        // ganti dengan SSID WiFi
+const char* ssid = "ITS-WIFI-TW2";                  // ganti dengan SSID WiFi
 const char* password = "5027241068@student.its.ac.id"; // ganti dengan password WiFi
-String writeAPIKey = "OOHZBWVVHY7WCDHV"; // ganti dengan Write API Key dari ThingSpeak
+String writeAPIKey = "OOHZBWVVHY7WCDHV";            // ganti dengan Write API Key dari ThingSpeak
 
 void setup() {
   Serial.begin(115200);
