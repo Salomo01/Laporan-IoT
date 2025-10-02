@@ -97,7 +97,7 @@ Proyek ini mendemonstrasikan implementasi IoT sederhana dengan menggunakan modul
 ---
 
 ### 7.3 Proses Koneksi ke ThingSpeak
-![ThinkSpeak Connection on ArdIDE](./ThinkSpeakConnectiononArdIDE.png)  
+<img width="1126" height="702" alt="Image" src="https://github.com/user-attachments/assets/228181e1-a047-4805-9843-c2a6909fa0a1" />
 *Gambar: Indikator proses koneksi/pengiriman saat program berjalan.*
 
 **Pembahasan:**
