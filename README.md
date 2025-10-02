@@ -2,8 +2,8 @@
 | Nama          | NRP          |
 | ------------- | ------------ |
 | Salomo | 5027221063 |
-| Nama | nrp |
-| Nama | nrp |
+| Ahmad Rafi F.D. | 5027241068 |
+| Aditya Reza D. | 5027241034 |
 
 # 📡 Laporan Proyek: IoT - Pengiriman Data Ultrasonik ke ThingSpeak
 
