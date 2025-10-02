@@ -107,7 +107,7 @@ Proyek ini mendemonstrasikan implementasi IoT sederhana dengan menggunakan modul
 ---
 
 ### 7.4 Dashboard ThingSpeak (Verifikasi Data)
-![ThingSpeak Monitor](./ThinkSpeakMonitor.png)  
+<img width="1900" height="971" alt="Image" src="https://github.com/user-attachments/assets/1be47a4a-51d4-4a61-af0f-c987ced65cb7" />
 *Gambar: Dashboard ThingSpeak, grafik yang menampilkan data jarak yang diterima pada field-field channel.*
 
 **Pembahasan:**
@@ -118,7 +118,7 @@ Proyek ini mendemonstrasikan implementasi IoT sederhana dengan menggunakan modul
 ---
 
 ### 7.5 API Key (Dokumentasi Internal)
-![API Key ThinkSpeak](./APIkeyThinkSpeak.png)  
+<img width="1897" height="970" alt="Image" src="https://github.com/user-attachments/assets/d7915547-039b-417e-b83f-4001550000c6" />
 *Gambar: Tangkapan layar API Key (JANGAN bagikan publik jika project bersifat privat).*
 
 **Pembahasan:**
