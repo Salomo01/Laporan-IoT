@@ -87,7 +87,7 @@ Proyek ini mendemonstrasikan implementasi IoT sederhana dengan menggunakan modul
 ---
 
 ### 7.2 Tampilan Kode di Arduino IDE
-![Arduino IDE with ThingSpeak](./ssArdIDEwithThinkSpeak.png)  
+<img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/1696b76e-c21c-4982-9e06-d2258fcbac92" /> 
 *Gambar: Kode yang sedang dibuka di Arduino IDE (penempatan library & inisialisasi).*
 
 **Pembahasan:**
