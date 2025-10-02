@@ -62,7 +62,7 @@ Proyek ini mendemonstrasikan implementasi IoT sederhana dengan menggunakan modul
 ---
 
 ## 6. Penjelasan Kode (Singkat)
-- **Nama file rekomendasi**: `iot_thingspeak.ino`  
+- `iot_thingspeak.ino`  
 - **Fungsi utama**:
   - Menghubungkan ESP32 ke WiFi menggunakan kredensial `ssid` dan `password`.
   - Mengukur durasi echo dari sensor ultrasonik dan menghitung jarak dalam cm dan inch.
